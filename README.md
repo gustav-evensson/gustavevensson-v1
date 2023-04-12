@@ -3,4 +3,6 @@ This is my old portfolio containing some of my projects, an about section aswell
 
 ![](https://github.com/gustav-evensson/gustavevensson-v1/blob/main/assets/image%2042.jpg)
 
-It's a one page website build using Vue.js and SCSS, hosted with Google Firebase Hosting.
+It's a SPA build using Vue.js and SCSS, hosted with Google Firebase Hosting.
+
+Website URL: https://gustavevensson-v1.web.app/
